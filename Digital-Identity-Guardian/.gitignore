@@ -1,0 +1,14 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Optional: keep example files tracked
+!.env.example
+
+node_modules/
+.env.*
+dist/
+uploads/
+logs/
+*.log
